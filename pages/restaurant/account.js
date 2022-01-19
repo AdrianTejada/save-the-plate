@@ -15,7 +15,7 @@ import { auth } from '../../firebase';
 
 import { MaterialCommunityIcons } from '@expo/vector-icons';
 import PlatesSaved from '../../comps/customer/PlatesSaved';
-import InfoCard from '../../comps/Restaurant/InfoCard';
+import InfoCard from '../../comps/restaurant/InfoCard';
 import But from '../../comps/global/Button';
 import axios from 'axios';
 

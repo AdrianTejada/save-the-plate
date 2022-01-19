@@ -1,8 +1,32 @@
-Installed the following dependancies:
+SaveThePlate Read Me!
 
 
 
-lottie expo --> expo install lottie-react-native
-styled components --> npm install styled-components --save
-UI kitten --> npm i @ui-kitten/components @eva-design/eva react-native-svg
-axios --> npm install axios --save
+Branch Naming
+
+Just use only your first name!
+
+
+
+Component Naming
+
+- ComponentName
+
+Capitilize the first letter of every word, no spaces, underscores or dashes
+
+
+Props
+
+- ${props=>props.name}
+
+const CardCont = styled.View`
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 90%;
+  height: ${props=>props.height};
+  background-color: white;
+  border-radius: 15px;
+  overflow: hidden;
+  margin-top: 10px;
+`

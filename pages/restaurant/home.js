@@ -20,15 +20,15 @@ import {
 
 import AddedItem from "../../comps/customer/AddedItem";
 
-import ListingCard from '../../comps/Restaurant/ListingCard'
-import OrderCard from '../../comps/Restaurant/OrderCard'
+import ListingCard from '../../comps/restaurant/ListingCard'
+import OrderCard from '../../comps/restaurant/OrderCard'
 import AddedItemOverlay from "../../comps/customer/AddedItemOverlay";
 
 import Tabs from '../../comps/global/Tabs'
 
-import Search from "../../comps/Restaurant/SearchBar";
+import Search from "../../comps/restaurant/SearchBar";
 
-import BubbleRest from "../../comps/Restaurant/BubbleRest";
+import BubbleRest from "../../comps/restaurant/BubbleRest";
 import axios from 'axios';
 import { auth, storage } from "../../firebase";
 import LottieView from 'lottie-react-native';

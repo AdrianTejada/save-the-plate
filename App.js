@@ -38,7 +38,7 @@ axios.defaults.baseURL = "https://save-the-plate.herokuapp.com/api/"
 import RestaurantHome from './pages/restaurant/home';
 import RestaurantAccount from './pages/restaurant/account';
 import Menu from './pages/restaurant/menu';
-import RestaurantNav from './comps/Restaurant/Nav';
+import RestaurantNav from './comps/restaurant/Nav';
 
 
 var logo = require ('./assets/logo1.png');
