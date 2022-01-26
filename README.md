@@ -1,5 +1,7 @@
 # SaveThePlate!
 
+This is a project I worked on (elaborate on thsi later)
+
 An app aimed at reducing food waste while maximising restaurant profits! 
 
 Developed by D3 students at BCIT.
