@@ -6,7 +6,7 @@ This is a project I worked on during my time in BCIT. I was responsible for crea
 
 Developed by D3 students at BCIT.
 
-##Preview
+## Preview
 
 Customer Main Page | Restaurant Main Page | New Menu Item
 :-------------------------:|:-------------------------:|:-------------------------:
