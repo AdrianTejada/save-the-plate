@@ -4,6 +4,12 @@ An app aimed at reducing food waste while maximising restaurant profits!
 
 Developed by D3 students at BCIT.
 
+##Preview
+
+Customer Main Page | Restaurant Main Page | New Menu Item
+
+<img src="/gifs/customer.gif"> | <img src="/gifs/listing.gif"> | <img src="/gifs/upload.gif">
+
 ### Naming Conventions
 
 __Branch Naming__
