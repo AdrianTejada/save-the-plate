@@ -9,7 +9,7 @@ Developed by D3 students at BCIT.
 ##Preview
 
 Customer Main Page | Restaurant Main Page | New Menu Item
-
+:-------------------------:|:-------------------------:|:-------------------------:
 <img src="/gifs/customer.gif" width="200" height="433" > | <img src="/gifs/listing.gif" width="200" height="433"> | <img src="/gifs/upload.gif" width="200" height="433">
 
 ### Naming Conventions
